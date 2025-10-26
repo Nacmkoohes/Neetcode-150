@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="34d1bb20-216a-4779-8b01-101a2c8e2089" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/PythonProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1-D Dynamic Programming/climbingstairs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1-D Dynamic Programming/mincostclimbing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array &amp; Hashing/Contains_Duplicate   .py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array &amp; Hashing/EncodeandDecode.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array &amp; Hashing/LongestConsecutiveSequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array &amp; Hashing/Productofarrayexceptself.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array &amp; Hashing/TopKfrequentelements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array &amp; Hashing/Valid_Anagram.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array &amp; Hashing/Validsudoku.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array &amp; Hashing/group_anagrams.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array &amp; Hashing/two_sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary Search/Kokoeating.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary Search/Searcha2DMatrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary Search/binarysearch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary Search/minimumrotated.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary Search/sarchinsortedarray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary Search/timebased.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bit Manipulation/countingbits.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bit Manipulation/missingnumber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bit Manipulation/numberofonebits.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bit Manipulation/reversebits.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bit Manipulation/singlenumber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Heap:Priority Queue/Klargestelement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Heap:Priority Queue/designtwitter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Heap:Priority Queue/kclosesettoorigin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Heap:Priority Queue/kthlargest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Heap:Priority Queue/last_stone.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Heap:Priority Queue/taskscheduler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intervals/meetingintervals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linked List/LRUCache.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linked List/Sliding Window/BestTimetoBuyandSellStock.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linked List/Sliding Window/longestrepeatingchar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linked List/Sliding Window/longestsubstring.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linked List/Sliding Window/permutationinstring.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linked List/addtwonumb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linked List/copyllrandompointer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linked List/findduplicate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linked List/linkedlistcycle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linked List/mergetwosortedlinklist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linked List/removenodefromend.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linked List/reorder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linked List/reversedlinklist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Math &amp; Geometry/NonCyclicalNumber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Math &amp; Geometry/plusone.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sliding Window/Besttimetosellandbuy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sliding Window/LongestRepeating.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sliding Window/LongestSubstringwithoutrepeat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sliding Window/Permutation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack/EvaluateReverse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack/ValidParentheses.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack/carfleet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack/dailytemp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack/generateparantheses.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack/minstack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack/tempCodeRunnerFile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trees/balancedbinarytree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trees/diameterofBtree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trees/invertbinarytree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trees/maxdepthbinarytree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trees/samebinarytree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trees/subtree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Two Pointers/3sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Two Pointers/containerwithmostwater.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Two Pointers/twointegerssumll.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Two Pointers/validpalindrome.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Nacmkoohes/Neetcode-150.git",
+    "accountId": "3ba5ac5c-7c9b-49fa-bdf0-ab98a9a5edb9"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="34c8pp6XlRJGPQSBgzJPD4NoOkf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/nasim/PythonProject"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-164cda30dcd9-0af03a5fa574-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.26830.99" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="34d1bb20-216a-4779-8b01-101a2c8e2089" name="Changes" comment="" />
+      <created>1761501685109</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1761501685109</updated>
+    </task>
+    <servers />
+  </component>
+</project>
