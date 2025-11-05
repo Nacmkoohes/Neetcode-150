@@ -1,15 +1,12 @@
-from typing import List
-
-
-class Solution:
-    def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-        hashmap={}
+class Solution(object):
+    def groupAnagrams(self, strs):
+        hashmap = {}
         for word in strs:
-            ordered_word=''.join(sorted(word))
-            if ordered_word in hashmap:
-                hashmap.append(word)
+            #make them like eachother if they are anagrams
+            key=''.join(sorted(word))
+            if key in hashmap:
+                hashmap[key].append(word)
+            #if key not already created by first time you see a word you make it a key
             else:
-                hashmap[ordered_word]=[word]
+                hashmap[key] = [word]
         return list(hashmap.values())
-        
-        
